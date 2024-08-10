@@ -14,4 +14,5 @@ Tools yang digunakan:
 -Git.
 
 Project ini juga menyajikan data dalam dashboard yang bisa diakses pada link berikut:
+
 https://lookerstudio.google.com/reporting/7dc5ba36-97a9-4fa6-8bfd-a222eb0d0761
