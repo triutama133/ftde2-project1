@@ -7,11 +7,11 @@ Project ini menjawab tugas-tugas tersebut.
 
 # Persiapan Project
 Tools yang digunakan:
--Python
--vsCode.
--PostgreSQL.
--GUI SQL (Pada case ini saya menggunakan DBeaver).
--Git.
+Python
+vsCode.
+PostgreSQL.
+GUI SQL (Pada case ini saya menggunakan DBeaver).
+Git.
 
 Project ini juga menyajikan data dalam dashboard yang bisa diakses pada link berikut:
 
