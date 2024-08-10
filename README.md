@@ -8,6 +8,7 @@ Project ini menjawab tugas-tugas tersebut.
 # Persiapan Project
 Tools yang digunakan:
 Python
+
 vsCode.
 PostgreSQL.
 GUI SQL (Pada case ini saya menggunakan DBeaver).
