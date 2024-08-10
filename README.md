@@ -5,8 +5,8 @@ Tim data analyst membutuhkan tabel untuk membuat dashboard terkait detail order 
 
 Project ini menjawab tugas-tugas tersebut.
 
-# Persiapan Project
-Tools yang harus digunakan:
+*Persiapan Project
+
 Python
 vsCode
 PostgreSQL
